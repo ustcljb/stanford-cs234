@@ -1,4 +1,4 @@
-# Stanford_CS234 Reinforcement Learning
+# Some useful notes when learning reinforcement Learning
 
 ## 1. What is the difference between off-policy and on-policy learning?
 - In **on-policy** learning the 𝑄(𝑠,𝑎) function is learned from actions, we took using our current policy 𝜋.
