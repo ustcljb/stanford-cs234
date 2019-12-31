@@ -7,3 +7,6 @@
 
 ## 2. What is bootstrapping in reinforcement learning?
 Bootstrapping in RL can be read as "using one or more estimated values in the update step for the same kind of estimated value". See [here](https://datascience.stackexchange.com/questions/26938/what-exactly-is-bootstrapping-in-reinforcement-learning) for more details.
+
+## 3. Exploration vs exploitation trade-off
+[Here](https://towardsdatascience.com/exploration-in-reinforcement-learning-e59ec7eeaa75) is a good reference.
