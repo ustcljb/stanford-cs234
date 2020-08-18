@@ -10,3 +10,9 @@ Bootstrapping in RL can be read as "using one or more estimated values in the up
 
 ## 3. Exploration vs exploitation trade-off
 [Here](https://towardsdatascience.com/exploration-in-reinforcement-learning-e59ec7eeaa75) is a good reference.
+
+## 4. What is the main difference between reinforcement learning and other machine learning paradigms? (Answer taken from David Silver's [lecture](https://www.davidsilver.uk/teaching/))
+- There is no supervisor, only a reward signal
+- Feedback is delayed, not instantaneous
+- Time really matters (sequential, non i.i.d data)
+- Agent’s actions affect the subsequent data it receives
